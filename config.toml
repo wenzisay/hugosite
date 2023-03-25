@@ -44,7 +44,7 @@ ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
   # Enable to show reading time in minutes for posts
