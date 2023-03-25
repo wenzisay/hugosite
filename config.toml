@@ -1,8 +1,8 @@
 baseURL  =  "https://immmmm.com"
 languageCode = "zh-CN"
 # DefaultContentLanguage = "zh-CN"
-title  =  "木木木木木"
-subtitle = "不问明天，悠然浪费"
+title  =  "wenzisay"
+subtitle = "文子的自言自语"
 
 theme  =  "hello-friend"
 summaryLength = 140
@@ -19,26 +19,26 @@ ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
   tags = "/tags/:slug/"
 
 [menu]
-  [[menu.main]]
-  name="哔哔"
-  url="/bbs/"
-  weight="1"
-  [[menu.main]]
-  name="友圈"
-  url="/friends/"
-  weight="2"
+#  [[menu.main]]
+#  name="哔哔"
+#  url="/bbs/"
+#  weight="1"
+#  [[menu.main]]
+#  name="友圈"
+#  url="/friends/"
+#  weight="2"
   [[menu.main]]
   name="归档"
   url="/archives/"
   weight="3"
-  [[menu.main]]
-  name="导航"
-  url="https://edui123.com/"
-  weight="4"
-  [[menu.main]]
-  name="关于"
-  url="/about/"
-  weight="5"
+#  [[menu.main]]
+#  name="导航"
+#  url="https://edui123.com/"
+#  weight="4"
+#  [[menu.main]]
+#  name="关于"
+#  url="/about/"
+#  weight="5"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
