@@ -76,5 +76,5 @@ ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
   baseName = "atom"
 
 [params.twikoo]
-	enable = true
+	enable = false
 
