@@ -1,7 +1,8 @@
 ---
 title: "hello hugo"
-date: 2023-03-25 15:14:30
+date: 2023-03-25
 tags: [默认]
 ---
 
-### 第一篇文章
+## 第一篇文章
+hello hugo 
